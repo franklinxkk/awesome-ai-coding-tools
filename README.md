@@ -84,6 +84,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## Coding Agents
 
+- [AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side SDD framework bridging product truth and coding-agent handoff: interaction ledgers, FRR gates, AC-YAML, delivery manifests.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's agentic coding tool for the terminal with deep codebase understanding.
 - **[Devin AI](https://devin.ai/)** – Autonomous AI software engineer that plans, codes, debugs, and deploys end-to-end.
 - **[OpenHands (OpenDevin)](https://opendevin.ai/)** – Open-source AI software engineer for autonomous development.
